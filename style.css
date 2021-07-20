@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    padding-top: 880px;
+    text-align: center;
+}
+
+.profile {
+    height: 500px;
+    width: 1300px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border-radius: 100;
+}
+
+
+#PinkFlower {
+    
+    height: 250px;
+    width: 250px;
+}
+
+#BlueFlower {
+    
+    height: 250px;
+    width: 250px;
+    
+}
+
+#SunFlower {
+    
+    height: 250px;
+    width: 250px;
+}
+
+#GreenTulip {
+    
+    height: 250px;
+    width: 250px;
+}
+
+#Rose {
+    
+    height: 250px;
+    width: 250px;
+    
+}
+
+#Orchid {
+    
+    height: 250px;
+    width: 250px;
+    
+}
+
+#Lily {
+    
+    height: 250px;
+    width: 250px;
+    
+}
+
+
+#Lotus {
+    
+    height: 250px;
+    width: 250px;
+}
+    
+
+#welcome {
+    position: absolute;
+    overflow: hidden;
+    color: beige;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    opacity: 0.90;
+    background: linear-gradient(#00c3ff 0%, #0091ff 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+
+h4 {
+    font-size: 30px;
+}
+
+.links {
+
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding bottom: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+
+}
+
+.menu {
+
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    z-index: 10;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+
+}
+
+h5 {
+    
+    font-size: 35px;
+}
+
+
+
+
+.container
+{
+    text-align: center;
+}
+
+#myCarousel {
+    
+    background-color: red;
+    
+}
+
+#myCarousel img {
+    
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p  {
+    
+    margin-bottom: 15 px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+
